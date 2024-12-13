@@ -87,7 +87,7 @@ function unsupported() {
     document.getElementById('flasher').innerHTML = `Sorry, your browser is not yet supported!<br>
     Please try on Desktop Chrome or Edge.<br>
     Find binary files here:<br>
-    <a href="https://github.com/tobiasfaust/` + getRepositoryName() + `/releases" target="_blank">
+    <a href="https://github.com/viper-666/HomeStatusDisplay/` + getRepositoryName() + `/releases" target="_blank">
     <button class="btn" slot="activate">GitHub Releases</button>
     </a>`
 }
