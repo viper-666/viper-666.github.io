@@ -7,7 +7,7 @@
     "version": "v0.7",
     "parts": [
         {
-            "path": "https://github.com/viper-666/viper-666.github.io/blob/main/firmware/v0.7-9-development/firmware_ESP8266/firmware.bin",
+            "path": "https://viper-666.github.io/firmware/v0.7-9-development/firmware_ESP8266/firmware.bin",
             "offset": 0
         }
     ]
